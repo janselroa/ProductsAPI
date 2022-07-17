@@ -1,9 +1,9 @@
 ## Products api
 es basicamente una API de productos en la que puedes crear, editar, listar y eliminar datos relacionados con productos, la API usa tecnologias modernas y buenas practicas como JWT, encrptacion de las contraseñas de los usuarios, BcryptJS, MySQL, CORS y mas
 
-<img src="./previw1.png">
-<img src="./previw2.png">
-<img src="./previw3.png">
+<img src="./previw1.PNG">
+<img src="./previw2.PNG">
+<img src="./previw3.PNG">
 
 ### Descargar
 ```
